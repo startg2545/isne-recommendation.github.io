@@ -1,45 +1,7 @@
-username,education,age,email,address,course,date,payment
-John Mayor,High school degree,20,cmu.ac.th,,Data Structures and Algorithms,2024-01-01 15:04:00,success
-Tim Henson,Bachelor degree,25,gmail.com,Canada,Calculus 1,2024-01-01 18:54:00,failure
-Saddam Hussein,Middle school degree,15,hotmail.com,Australia,Fundamental English 1,2024-02-01 14:10:00,disapproval
-Colton Campbell,High school degree,16,taobudao.com,California,Engineering Drawing,2024-11-06 10:28:00,success
-Julian Cook,Vocational degree,27,cenvalgolf.com,,Introduction to ISNE,2024-12-17 11:45:00,failure
-Nolan Jones,Middle school degree,35,crupma.com,Indiana,Basic Computer Programming for ISNE,2024-02-29 10:03:00,failure
-Caroline Green,Diploma degree,35,ps372.org,Virginia,Fundamental English 1,2024-05-12 11:36:00,disapproval
-Serenity Parker,High school degree,31,dmxs8.com,,Calculus 1,2024-01-29 15:01:00,success
-Eloise Anderson,Bachelor degree,40,progrowclimate.com,,Data Structures and Algorithms,2024-09-03 15:49:00,disapproval
-Adeline Thompson,Bachelor degree,32,auspecialist.net,Missouri,Fundamental English 1,2024-07-18 11:38:00,failure
-Emily Stewart,Master degree,32,blacktopindustries.net,Colorado,Calculus 1,2024-10-27 10:33:00,disapproval
-Jaxon Morales,Diploma degree,29,boomtownmarket.com,Texas,Engineering Drawing,2024-03-05 10:54:00,success
-Leo Ward,High vocational degree,28,hearthtodon.com,Ohio,Basic Computer Programming for ISNE,2024-02-03 15:15:00,disapproval
-Wyatt Myers,Bachelor degree,28,tlcemail.eu,California,Data Structures and Algorithms,2024-01-29 09:40:00,success
-Michael Torres,Bachelor degree,23,thedistilleryonline.com,,Engineering Drawing,2024-07-17 09:30:00,disapproval
-Joshua Cook,Bachelor degree,23,hottmat.com,,Calculus 1,2024-07-25 11:42:00,success
-James Hill,Bachelor degree,33,blacktopindustries.net,United States,Basic Computer Programming for ISNE,2024-05-11 10:32:00,disapproval
-Carter Morgan,Bachelor degree,48,gpaemail.eu,Canada,Engineering Drawing,2024-03-04 15:14:00,failure
-Mila Ortiz,High vocational degree,28,root-server.xyz,,Calculus 1,2024-08-10 16:16:00,success
-Liliana Allen,Diploma degree,34,franchiseworkforce.com,,Basic Computer Programming for ISNE,2024-05-14 16:06:00,failure
-Kinsley Robinson,Ph.D.,36,p2extraction.com,,Basic Computer Programming for ISNE,2024-09-30 15:35:00,failure
-Eleanor Miller,Bachelor degree,34,inkworlds.com,,Calculus 1,2024-10-24 10:25:00,success
-Sadie Evans,Middle school degree,17,viacentrum.net,Virginia,Data Structures and Algorithms,2024-08-16 09:27:00,failure
-Jade Mendoza,Bachelor degree,68,ltlseguridad.com,Indiana,Fundamental English 1,2024-03-21 15:01:00,success
-Leah Patel,Master degree,25,snlgllc.com,Virginia,Introduction to ISNE,2024-07-10 16:18:00,disapproval
-Scarlett Bennett,Bachelor degree,22,wremail.top,Texas,Basic Computer Programming for ISNE,2024-05-02 10:07:00,disapproval
-Aria Richardson,Bachelor degree,23,bmffightwear.com,United States,Introduction to ISNE,2024-09-01 11:29:00,success
-Landon Watson,High school degree,50,hearthtodon.com,Canada,Engineering Drawing,2024-02-05 15:00:00,success
-Isaac Morgan,High school degree,17,gpaemail.eu,,Basic Computer Programming for ISNE,2024-01-09 16:49:00,failure
-John Mayor,High school degree,20,cmu.ac.th,,Fundamental English 1,1900-01-01 15:10:00,success
-Tim Henson,Bachelor degree,25,gmail.com,Canada,Data Structures and Algorithms,2024-12-04 15:52:00,failure
-Saddam Hussein,Middle school degree,15,hotmail.com,Australia,Introduction to ISNE,1900-05-12 16:19:00,disapproval
-Colton Campbell,High school degree,16,taobudao.com,,Data Structures and Algorithms,1900-11-01 10:45:00,success
-Julian Cook,Vocational degree,27,cenvalgolf.com,,Calculus 1,1900-06-05 09:38:00,failure
-Nolan Jones,Middle school degree,35,crupma.com,,Introduction to ISNE,1900-01-03 10:14:00,failure
-Caroline Green,Diploma degree,35,ps372.org,Virginia,Basic Computer Programming for ISNE,1900-02-15 09:56:00,disapproval
-Serenity Parker,High school degree,31,dmxs8.com,Texas,Data Structures and Algorithms,1900-08-04 16:22:00,success
-Eloise Anderson,Bachelor degree,40,progrowclimate.com,Nebraska,Fundamental English 1,1900-11-16 11:00:00,disapproval
-Adeline Thompson,Bachelor degree,32,auspecialist.net,Missouri,Engineering Drawing,1900-12-20 15:11:00,failure
-Emily Stewart,Master degree,32,blacktopindustries.net,Colorado,Basic Computer Programming for ISNE,1900-04-25 15:31:00,disapproval
-Isaac Morgan,High school degree,17,gpaemail.eu,Australia,Data Structures and Algorithms,1900-05-23 15:09:00,failure
-John Mayor,High school degree,20,cmu.ac.th,,Calculus 1,1900-07-20 16:12:00,success
-Tim Henson,Bachelor degree,25,gmail.com,Canada,Fundamental English 1,1900-09-05 16:23:00,failure
-Saddam Hussein,Middle school degree,15,hotmail.com,,Engineering Drawing,1900-01-09 11:09:00,disapproval
+course,description
+Data Structures and Algorithms,Concept of data structure. Complexity analysis. Pointer. Objects and classes. Arrays and vectors. Linked List. Stacks, queues and priority queues. Recursion. Sorting algorithms. Hashing. Memory management. String comparison.
+Calculus 1,Introduction to vector, derivatives of functions of one variable and applications, indefinite and definite integrals and applications.
+Fundamental English 1,Communication in English for everyday interactions. Basic listening, speaking, reading and writing skills in various social and cultural contexts for life-long learning.
+Engineering Drawing,Introduction to engineering drawing, drawing instruments and lettering. Theory of Orthographic projection and drawing. Dimensioning and to lerancing. Sections and conventions. Auxiliary views and development. 3D: Isometric. 3D: Oblique. 3D: Perspective. Freehand sketches. Drawing Applications.
+Introduction to ISNE,Introduction to information systems for information systems and network engineering, Introduction to computer hardware for information systems and network engineering, Introduction to computer software for information systems and network engineering, Introduction to computer networks for information systems and network engineering, Introduction to database systems for information systems and network engineering.
+Basic Computer Programming for ISNE,Introduction to computers and programming for information systems and network engineering. Structural programming. Control structures. Functions. Arrays. Pointers.
